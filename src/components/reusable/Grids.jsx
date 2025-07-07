@@ -1,11 +1,7 @@
 import React from 'react'
 import { CornerDownRightIcon } from 'lucide-react'
 
-const y:'',
-const x;''
-
-windows.addEventLister
-const Grid = (props) => {
+const Grid = () => {
   return (
     <div>   
        <main className="my-60">

@@ -1,8 +1,8 @@
 import React from "react";
 import Header from "../static/Header.jsx";
 import Buttons from "../reusable/buttons.jsx";
-import { Apple, CornerDownRightIcon, Play } from "lucide-react";
-import Grid from "../reusable/grid.jsx";
+import { Apple, Play } from "lucide-react";
+import Grid from "../reusable/Grids.jsx";
 
 const Home = () => {
   return (
